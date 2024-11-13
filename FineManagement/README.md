@@ -1,6 +1,6 @@
 ### project description
 
-VTU 5th sem DBMS project using python tkinter for UI and sqlite for DB locally stored in the .db file.
+VTU Project
 
 ## install locally
 
